@@ -1,0 +1,73 @@
+.block-container-top {
+    margin: 10px;
+    border-style: solid;
+}
+
+.purple-block {
+    display: inline-block;
+    background-color: rgb(118, 40, 186);
+    margin: 10px;
+    width: 35px;
+    height: 100px;
+}
+
+.green-block {
+    display: inline-block;
+    background-color: green;
+    margin: 10px 20px;
+    width: 300px;
+    height: 140px;
+}
+
+.blue-circle {
+    display: inline-block;
+    border-radius: 200px;
+    width: 140px;
+    height: 140px;
+    background-color: lightblue;
+    margin: 10px 20px;
+
+}
+
+.container-middle{
+    border-style: dotted;
+    margin: 20px 10px;
+    height: 200px;
+    position: relative;
+}
+
+.shadow-box{
+    background-color: lightgoldenrodyellow;
+    display: inline-block;
+    /* margin: 4%; */
+    position:relative;
+    left:5%;
+    top:15px;
+    width: 90%;
+    height: 70%;
+    box-shadow: rgb(84, 84, 84) 8px 7px 6px;
+}
+
+.bottom-container {
+    display: flex;
+    justify-content: center;
+}
+
+.container-card-box{
+    box-shadow:rgb(142, 142, 142) 2px 3px 5px;
+    width: 330px;
+    height: 200px;
+    position: relative;
+}
+
+.friends-text{
+    position: relative;
+    top: 45px;
+    font-weight:bold;
+    color:rgb(70, 78, 145);
+    letter-spacing: 10px;
+    font-size: 25px;
+    text-align: center;
+    vertical-align: center;
+    
+}
