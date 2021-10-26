@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: rgb(53, 53, 53);
+    height: 10vh;
+}
+
+p{
+    background-color: rgb(255, 255, 255);
+    margin: 0px 10vw;
+    height: 90%;
+}
+
+h1{
+    margin: 0px 10vw;
+    background-color: rgb(53, 53, 53);
+    height: 10%;
+}
+.container {
+    position: relative;
+    background-color: rgb(216, 216, 216);
+    height: 90vh;
+}
